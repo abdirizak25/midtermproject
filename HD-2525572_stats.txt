@@ -1,0 +1,19 @@
+Total sales in 2012: 1665063
+Total sales in 2013: 1728140
+Total sales in 2014: 1851645
+Total sales in 2015: 1867498
+Total sales in 2016: 1948375
+Total sales in 2017: 2029668
+Total sales in 2018: 1987373
+Total sales in 2019: 1921449
+Total sales in 2020: 1661560
+Total sales in 2021: 1638340
+Total sales in 2022: 312230
+
+Sales growth rate for first 6 months of 2022: -0.71
+Estimated sales in Jul of 2022: 44360
+Estimated sales in Aug of 2022: 42356
+Estimated sales in Sep of 2022: 41706
+Estimated sales in Oct of 2022: 35622
+Estimated sales in Nov of 2022: 33395
+Estimated sales in Dec of 2022: 31609
